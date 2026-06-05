@@ -1,93 +1,84 @@
 # WorkforceIQ
 
-### Helping every employee grow, every manager develop talent, and every organisation unlock its full potential.
+## AI-Powered Workforce Intelligence & Employee Growth Platform
 
-WorkforceIQ is an evidence-based Employee Growth and Workforce Intelligence Platform designed to help organisations identify, develop, recognise, and promote talent from within.
+WorkforceIQ helps organisations identify, develop, recognise, promote, and retain talent while giving employees clear visibility into their growth, career progression, and future opportunities.
 
-Unlike traditional HR systems that focus on administration, WorkforceIQ focuses on people growth, workforce capability, leadership development, employee engagement, and organisational success.
+The platform combines workforce intelligence, employee development, leadership planning, succession management, learning pathways, AI-powered guidance, and executive analytics into a single integrated solution.
 
-The platform helps employees understand how they can grow, helps managers become better talent developers, and gives leadership teams the workforce intelligence needed to make better decisions.
-
----
-
-# Vision
-
-Our vision is to create workplaces where every employee can see a future, every manager actively develops talent, and every organisation understands the true potential of its workforce.
-
-We believe that organisations already possess extraordinary talent within their teams. The challenge is identifying it, developing it, recognising it, and providing opportunities for growth.
-
-WorkforceIQ exists to unlock that potential.
-
----
-
-# Mission
-
-To help organisations discover, develop, and retain talent through evidence-based workforce intelligence, employee growth, and leadership development.
+Rather than simply managing employees, WorkforceIQ helps organisations unlock the full potential of their workforce.
 
 ---
 
 # The Problem
 
-Most organisations face the same challenges.
+Most organisations have significant investment in:
 
-Employees often do not know:
+* Recruitment
+* Learning & Development
+* Leadership Programmes
+* Appraisals
+* Performance Reviews
+* Employee Engagement
+* Succession Planning
 
-* How to progress their careers
-* What skills they need to develop
-* Whether they are promotion ready
-* What opportunities exist within the company
+However, these activities often operate independently.
 
-Managers often struggle to:
+Employees struggle to understand:
 
-* Identify future leaders
-* Support employee growth
-* Create meaningful development plans
-* Recognise talent consistently
+* How they can grow
+* What opportunities exist
+* What skills they should develop
+* How they become promotion ready
 
-HR teams often lack visibility into:
+Managers struggle to understand:
 
-* Workforce capabilities
-* Skill gaps
-* Leadership pipelines
-* Succession planning
-* Employee engagement
+* Who their future leaders are
+* Which employees need support
+* How to coach and develop talent effectively
 
-Executives often cannot answer critical questions such as:
+Executives struggle to answer:
 
-* Who are our future leaders?
-* Which skills are we missing?
-* Who is ready for promotion?
-* Which employees are at risk of leaving?
-* How healthy is our leadership pipeline?
+* Do we have the skills we need?
+* Who is promotion ready?
+* Who can replace critical roles?
+* What workforce risks exist?
+* Is our workforce becoming stronger or weaker?
 
-WorkforceIQ solves these challenges through trusted data, structured development, and workforce intelligence.
+WorkforceIQ brings these disconnected activities together into a single workforce intelligence platform.
 
 ---
 
-# Core Philosophy
+# Our Vision
 
-## Evidence Before Opinion
+Our vision is simple:
 
-Traditional systems often rely on self-assessments.
+> Help every employee grow, every manager develop talent, and every organisation unlock its full potential.
 
-WorkforceIQ does not.
+We believe employees should not need to leave an organisation in order to progress their careers.
 
-Employees do not simply rate themselves.
+We believe managers should be equipped to become talent developers rather than task managers.
 
-Instead, WorkforceIQ uses:
+We believe organisations should make workforce decisions using trusted evidence rather than assumptions.
 
-* Achievements
-* Project Contributions
-* Certifications
-* Learning Records
-* Manager Assessments
-* Appraisal Reviews
-* Development Activities
-* Organisational Evidence
+WorkforceIQ creates a transparent, fair, and development-focused environment where people can see opportunities, build meaningful careers, and contribute to organisational success.
 
-to create trusted workforce intelligence.
+---
 
-This creates confidence in promotion, succession, and development decisions.
+# How WorkforceIQ Works
+
+| Stage                  | Purpose                                                                                      | Outcome                     |
+| ---------------------- | -------------------------------------------------------------------------------------------- | --------------------------- |
+| Workforce Foundation   | Build organisational structures, departments, employees, managers, and reporting hierarchies | Trusted workforce structure |
+| Evidence Collection    | Capture employee achievements, certifications, mentoring activities, and contributions       | Trusted employee profile    |
+| Manager Verification   | Validate evidence and achievements through structured workflows                              | Fair and auditable records  |
+| Employee Growth        | Create development plans, career pathways, and growth journeys                               | Continuous improvement      |
+| AI Growth Companion    | Provide personalised recommendations and development guidance                                | Proactive career coaching   |
+| Learning Intelligence  | Connect employees to learning pathways, mentorship, and certifications                       | Skills development          |
+| Career Progression     | Measure readiness for future roles and promotion opportunities                               | Internal mobility           |
+| Leadership Development | Identify future leaders and succession candidates                                            | Strong leadership pipelines |
+| Workforce Intelligence | Analyse workforce trends, engagement, risks, and skills gaps                                 | Executive insights          |
+| Strategic Alignment    | Connect people growth to organisational goals and business outcomes                          | Organisational success      |
 
 ---
 
@@ -98,15 +89,22 @@ This creates confidence in promotion, succession, and development decisions.
 Employees use WorkforceIQ to:
 
 * Track achievements
-* Capture evidence of success
-* View career pathways
-* Understand promotion readiness
-* Receive development recommendations
-* Access learning opportunities
-* Gain recognition
-* Monitor career growth
+* Build evidence-based career profiles
+* Explore career pathways
+* Receive AI-powered growth recommendations
+* Discover learning opportunities
+* Find mentors
+* Monitor promotion readiness
+* Prepare for leadership opportunities
 
-Employees receive clear visibility into their future inside the organisation.
+### Employee Value
+
+Employees gain visibility into:
+
+* Where they are today
+* Where they could go next
+* What skills they need to develop
+* How close they are to their goals
 
 ---
 
@@ -114,15 +112,24 @@ Employees receive clear visibility into their future inside the organisation.
 
 Managers use WorkforceIQ to:
 
-* Support employee development
+* Review employee achievements
+* Verify contributions
 * Conduct appraisals
-* Validate skills
 * Create development plans
 * Identify future leaders
-* Track team growth
-* Improve employee engagement
+* Support employee growth
+* Monitor team engagement
+* Build succession plans
 
-Managers become talent developers rather than simply performance reviewers.
+### Manager Value
+
+Managers gain:
+
+* Better workforce visibility
+* Coaching support
+* Talent development tools
+* Leadership pipeline insights
+* Promotion readiness analysis
 
 ---
 
@@ -130,14 +137,23 @@ Managers become talent developers rather than simply performance reviewers.
 
 HR teams use WorkforceIQ to:
 
-* Monitor workforce capability
-* Identify skill shortages
-* Manage appraisal cycles
-* Support succession planning
-* Track employee engagement
-* Analyse workforce trends
+* Manage appraisal frameworks
+* Monitor workforce development
+* Identify skills gaps
+* Build succession plans
+* Analyse employee engagement
+* Support leadership programmes
+* Monitor workforce risks
 
-HR gains access to real workforce intelligence rather than disconnected spreadsheets.
+### HR Value
+
+HR gains:
+
+* Workforce intelligence
+* Talent visibility
+* Succession planning tools
+* Promotion analytics
+* Organisational health metrics
 
 ---
 
@@ -145,317 +161,131 @@ HR gains access to real workforce intelligence rather than disconnected spreadsh
 
 Executives use WorkforceIQ to:
 
-* Understand workforce health
-* Identify future leaders
-* Monitor leadership pipelines
-* Reduce organisational risk
-* Improve retention
-* Support strategic workforce planning
+* Monitor workforce health
+* Understand leadership pipelines
+* Analyse workforce risks
+* Identify future skills requirements
+* Review organisational readiness
+* Align workforce development with business strategy
 
-WorkforceIQ provides the data required for informed leadership decisions.
+### Executive Value
+
+Executives gain:
+
+* Evidence-based workforce decisions
+* Workforce forecasting
+* Leadership visibility
+* Strategic workforce planning
+* Organisational intelligence
 
 ---
 
 # Key Features
 
-## Employee Growth Profiles
-
-A complete professional profile containing:
-
-* Skills
-* Achievements
-* Certifications
-* Career Aspirations
-* Learning Activity
-* Development History
-
-This becomes the employee's growth record throughout their career.
-
----
-
-## Achievement Tracking
-
-Employees can capture evidence of success including:
-
-* Projects Delivered
-* Leadership Contributions
-* Customer Impact
-* Innovation
-* Cost Savings
-* Team Development
-
-Achievements become part of the employee's professional growth story.
+| Feature Area              | Capabilities                                                                  |
+| ------------------------- | ----------------------------------------------------------------------------- |
+| Workforce Foundation      | Organisations, Departments, Roles, Employees, Managers, Reporting Hierarchies |
+| Appraisals & Verification | Achievement Tracking, Evidence Collection, Manager Reviews, Audit Trails      |
+| Employee Growth           | Growth Dashboards, Career Pathways, Development Plans, Recognition            |
+| AI Growth Companion       | Career Guidance, Growth Recommendations, Coaching Insights                    |
+| Learning Intelligence     | Learning Pathways, Certifications, Mentorship, Leadership Programmes          |
+| Career Progression        | Promotion Readiness, Internal Mobility, Talent Pools                          |
+| Succession Planning       | Future Leaders, Critical Roles, Successor Identification                      |
+| Workforce Intelligence    | Workforce Health, Skills Intelligence, Workforce Analytics                    |
+| Employee Experience       | Recognition, Pulse Surveys, Culture Analytics, Community Groups               |
+| Strategic Alignment       | Goals, OKRs, Department Scorecards, Organisational Execution                  |
 
 ---
 
-## Appraisal & Verification Engine
+# WorkforceIQ Product Roadmap
 
-Structured appraisal workflows including:
-
-* Employee Evidence Submission
-* Manager Reviews
-* Competency Assessments
-* Development Planning
-* Progress Tracking
-
-This creates trusted and verifiable workforce data.
-
----
-
-## Skills Verification Framework
-
-Skills are supported by evidence rather than self-assessment.
-
-Examples:
-
-* Project Experience
-* Certifications
-* Manager Validation
-* Performance Reviews
-* Development Activities
-
-This creates confidence in workforce capability data.
+| Phase    | Name                          | Purpose                                                |
+| -------- | ----------------------------- | ------------------------------------------------------ |
+| Phase 1  | Workforce Foundation          | Build organisational structure and workforce hierarchy |
+| Phase 2  | Evidence & Verification       | Capture and validate employee contributions            |
+| Phase 3  | Employee Growth Platform      | Enable employee development and career growth          |
+| Phase 4  | AI Growth Companion           | Deliver personalised growth recommendations            |
+| Phase 5  | Learning Intelligence         | Connect development needs to learning opportunities    |
+| Phase 6  | Promotion Readiness           | Measure career progression and readiness               |
+| Phase 7  | Succession Planning           | Build leadership pipelines and future leaders          |
+| Phase 8  | Workforce Intelligence        | Provide executive workforce analytics and insights     |
+| Phase 9  | Culture & Employee Experience | Improve engagement, recognition, and retention         |
+| Phase 10 | Strategic Alignment           | Connect workforce growth to business objectives        |
 
 ---
 
-## Career Development Planning
+# Example Employee Journey
 
-Employees receive:
-
-* Career Path Visibility
-* Development Recommendations
-* Promotion Requirements
-* Growth Opportunities
-
-Helping employees understand how to progress within the organisation.
-
----
-
-## AI Growth Companion
-
-An intelligent growth assistant that helps employees:
-
-* Understand strengths
-* Identify opportunities
-* Stay focused on development goals
-* Track progress
-* Receive encouragement
-
-The platform acts as a growth partner rather than an administrative tool.
+| Step                   | Experience                                                  |
+| ---------------------- | ----------------------------------------------------------- |
+| Join Organisation      | Employee profile created                                    |
+| Add Achievements       | Projects, certifications, mentoring, contributions recorded |
+| Manager Verification   | Evidence reviewed and validated                             |
+| Development Planning   | Growth opportunities identified                             |
+| Learning & Mentorship  | Employee participates in development activities             |
+| Career Progression     | Promotion readiness monitored                               |
+| Leadership Development | Future leadership opportunities identified                  |
+| Succession Planning    | Employee enters future leader pipeline                      |
+| Strategic Contribution | Employee goals align with organisational objectives         |
 
 ---
 
-## Learning Intelligence
+# Why WorkforceIQ Is Different
 
-Personalised recommendations including:
+Most systems focus on administration.
 
-* Courses
-* Certifications
-* Leadership Programmes
-* Development Activities
-* Mentorship Opportunities
+WorkforceIQ focuses on growth.
 
-Helping employees build the skills needed for future success.
+Most systems evaluate employees.
 
----
+WorkforceIQ develops employees.
 
-## Promotion Readiness
+Most systems generate reports.
 
-WorkforceIQ continuously evaluates:
+WorkforceIQ generates intelligence.
 
-* Skill Readiness
-* Leadership Readiness
-* Development Progress
-* Organisational Requirements
+Most systems react to workforce problems.
 
-Helping managers identify promotion candidates objectively.
+WorkforceIQ helps organisations prepare for them.
 
 ---
 
-## Succession Planning
+# Technology Stack
 
-Identify future leaders for critical roles.
-
-The platform helps organisations answer:
-
-> If this role becomes vacant tomorrow, who is ready to step into it?
-
-Reducing organisational risk and improving continuity.
-
----
-
-## Workforce Intelligence Dashboard
-
-Provides visibility into:
-
-* Future Leaders
-* Promotion Readiness
-* Skill Gaps
-* Employee Engagement
-* Retention Risk
-* Workforce Capability
-
-Helping executives make informed workforce decisions.
+| Area             | Technology                       |
+| ---------------- | -------------------------------- |
+| Backend          | ASP.NET Core 10                  |
+| Language         | C#                               |
+| Architecture     | Clean Architecture               |
+| Patterns         | CQRS, MediatR                    |
+| Database         | SQL Server                       |
+| ORM              | Entity Framework Core            |
+| Validation       | FluentValidation                 |
+| API              | REST API                         |
+| Frontend         | Angular 20                       |
+| Styling          | Tailwind CSS                     |
+| Components       | DaisyUI                          |
+| State Management | Signals, RxJS                    |
+| Authentication   | JWT / Identity                   |
+| AI               | AI Growth Companion Services     |
+| Reporting        | Executive Dashboards & Analytics |
 
 ---
 
-# Employee Engagement & Recognition
+# Long-Term Goal
 
-One of the most important goals of WorkforceIQ is creating a platform employees genuinely want to use.
+WorkforceIQ aims to become the operating system for workforce development and organisational intelligence.
 
-Most HR systems are used because employees must use them.
+A platform where:
 
-WorkforceIQ is designed to be used because employees benefit from using it.
-
----
-
-## Weekly Growth Experience
-
-Every week employees receive:
-
-* Achievement Recognition
-* Growth Insights
-* Career Progress Updates
-* Learning Recommendations
-* Development Opportunities
-
-The platform continuously reinforces progress and development.
-
----
-
-## Recognition Engine
-
-Managers can recognise contributions and achievements.
-
-Examples:
-
-* Leadership
-* Collaboration
-* Innovation
-* Mentoring
-* Delivery Excellence
-
-Recognition becomes visible, meaningful, and measurable.
-
----
-
-## Career Visibility
-
-Employees can clearly see:
-
-* Potential career paths
-* Skills required for progression
-* Internal opportunities
-* Leadership pathways
-
-Helping employees see a future within the organisation.
-
----
-
-# Workforce Intelligence
-
-WorkforceIQ helps organisations answer critical questions.
-
-### Workforce Capability
-
-What skills exist today?
-
-### Leadership Pipeline
-
-Who are our future leaders?
-
-### Promotion Readiness
-
-Who is ready for advancement?
-
-### Succession Planning
-
-Who can replace critical roles?
-
-### Retention Risk
-
-Which employees require attention?
-
-### Skill Gaps
-
-What capabilities are missing?
-
-These insights help organisations make proactive decisions.
-
----
-
-# Business Benefits
-
-## Employees
-
-* Greater engagement
-* Clear career direction
-* More recognition
-* Better development opportunities
-
----
-
-## Managers
-
-* Stronger teams
-* Better visibility
-* Easier development planning
-* More objective promotion decisions
-
----
-
-## HR
-
-* Workforce intelligence
-* Improved succession planning
-* Better employee retention
-* Reduced talent risk
-
----
-
-## Executives
-
-* Better workforce visibility
-* Improved leadership pipelines
-* Reduced organisational risk
-* Stronger long-term planning
-
----
-
-# Long-Term Vision
-
-WorkforceIQ aims to become the operating system for employee growth and workforce intelligence.
-
-A platform where employees continuously grow, managers continuously develop talent, and organisations continuously strengthen their workforce.
-
-Our long-term goal is simple:
-
-Create organisations where people do not need to leave to grow.
-
-Instead, they can see opportunities, receive support, and build meaningful careers from within.
-
----
-
-# Technology Vision
-
-WorkforceIQ is designed as a modern enterprise platform built using:
-
-* ASP.NET Core
-* C#
-* Clean Architecture
-* CQRS + MediatR
-* SQL Server
-* Angular
-* Tailwind CSS
-* DaisyUI
-* AI-Assisted Workforce Intelligence
-* Event-Driven Architecture
-* Enterprise Security & Auditability
-
-Built for scalability, maintainability, and long-term organisational growth.
+* Employees build meaningful careers
+* Managers develop great teams
+* HR gains workforce visibility
+* Executives make informed decisions
+* Organisations unlock human potential
 
 ---
 
 # One Sentence Summary
 
-**WorkforceIQ is an evidence-based employee growth and workforce intelligence platform that helps organisations identify, develop, recognise, and promote talent while helping employees build meaningful careers within the company.**
+**WorkforceIQ is an AI-powered Workforce Intelligence and Employee Growth Platform that helps organisations identify, develop, recognise, promote, and retain talent while helping employees build successful careers from within.**
